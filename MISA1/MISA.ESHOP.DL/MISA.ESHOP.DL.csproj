@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MISA.ESHOP.Core\MISA.ESHOP.Core.csproj" />
+    <ProjectReference Include="..\MISA.ESHOP.Model\MISA.ESHOP.Model.csproj" />
+  </ItemGroup>
+
+</Project>
