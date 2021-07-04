@@ -1,0 +1,267 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.BL\\MISA.BL.csproj": {}
+  },
+  "projects": {
+    "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.BL\\MISA.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.BL\\MISA.BL.csproj",
+        "projectName": "MISA.BL",
+        "projectPath": "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.BL\\MISA.BL.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.Common\\MISA.Common.csproj": {
+                "projectPath": "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.Common\\MISA.Common.csproj"
+              },
+              "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.DL\\MISA.DL.csproj": {
+                "projectPath": "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.DL\\MISA.DL.csproj"
+              },
+              "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.Model\\MISA.Model.csproj": {
+                "projectPath": "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.Model\\MISA.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.Common\\MISA.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.Common\\MISA.Common.csproj",
+        "projectName": "MISA.Common",
+        "projectPath": "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.Common\\MISA.Common.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.DL\\MISA.DL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.DL\\MISA.DL.csproj",
+        "projectName": "MISA.DL",
+        "projectPath": "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.DL\\MISA.DL.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.DL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.Common\\MISA.Common.csproj": {
+                "projectPath": "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.Common\\MISA.Common.csproj"
+              },
+              "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.Model\\MISA.Model.csproj": {
+                "projectPath": "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.Model\\MISA.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.Model\\MISA.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.Model\\MISA.Model.csproj",
+        "projectName": "MISA.Model",
+        "projectPath": "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.Model\\MISA.Model.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.Common\\MISA.Common.csproj": {
+                "projectPath": "D:\\Current\\Main\\BackEnd - Copy\\MISA.EShop.Web\\MISA.Common\\MISA.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

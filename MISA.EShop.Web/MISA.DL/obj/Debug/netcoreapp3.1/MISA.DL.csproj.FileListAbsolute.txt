@@ -1,0 +1,88 @@
+E:\program\WDT2020\WDT2020\VHTHANG-MS4-15\New folder (2)\MISA.CukCuk.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.Common.dll
+E:\program\WDT2020\WDT2020\VHTHANG-MS4-15\New folder (2)\MISA.CukCuk.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csprojAssemblyReference.cache
+E:\program\WDT2020\WDT2020\VHTHANG-MS4-15\New folder (2)\MISA.CukCuk.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.AssemblyInfoInputs.cache
+E:\program\WDT2020\WDT2020\VHTHANG-MS4-15\New folder (2)\MISA.CukCuk.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.AssemblyInfo.cs
+E:\program\WDT2020\WDT2020\VHTHANG-MS4-15\New folder (2)\MISA.CukCuk.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.deps.json
+E:\program\WDT2020\WDT2020\VHTHANG-MS4-15\New folder (2)\MISA.CukCuk.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.dll
+E:\program\WDT2020\WDT2020\VHTHANG-MS4-15\New folder (2)\MISA.CukCuk.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.pdb
+E:\program\WDT2020\WDT2020\VHTHANG-MS4-15\New folder (2)\MISA.CukCuk.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+E:\program\WDT2020\WDT2020\VHTHANG-MS4-15\New folder (2)\MISA.CukCuk.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csproj.CoreCompileInputs.cache
+E:\program\WDT2020\WDT2020\VHTHANG-MS4-15\New folder (2)\MISA.CukCuk.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csproj.CopyComplete
+E:\program\WDT2020\WDT2020\VHTHANG-MS4-15\New folder (2)\MISA.CukCuk.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.dll
+E:\program\WDT2020\WDT2020\VHTHANG-MS4-15\New folder (2)\MISA.CukCuk.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.pdb
+E:\program\Misa.Fresher\MISA.Web2021_02\MF727-vhthang\Btvn-t2\MISA.CukCuk.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.deps.json
+E:\program\Misa.Fresher\MISA.Web2021_02\MF727-vhthang\Btvn-t2\MISA.CukCuk.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.dll
+E:\program\Misa.Fresher\MISA.Web2021_02\MF727-vhthang\Btvn-t2\MISA.CukCuk.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.pdb
+E:\program\Misa.Fresher\MISA.Web2021_02\MF727-vhthang\Btvn-t2\MISA.CukCuk.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.Common.dll
+E:\program\Misa.Fresher\MISA.Web2021_02\MF727-vhthang\Btvn-t2\MISA.CukCuk.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+E:\program\Misa.Fresher\MISA.Web2021_02\MF727-vhthang\Btvn-t2\MISA.CukCuk.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csprojAssemblyReference.cache
+E:\program\Misa.Fresher\MISA.Web2021_02\MF727-vhthang\Btvn-t2\MISA.CukCuk.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.AssemblyInfoInputs.cache
+E:\program\Misa.Fresher\MISA.Web2021_02\MF727-vhthang\Btvn-t2\MISA.CukCuk.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.AssemblyInfo.cs
+E:\program\Misa.Fresher\MISA.Web2021_02\MF727-vhthang\Btvn-t2\MISA.CukCuk.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csproj.CoreCompileInputs.cache
+E:\program\Misa.Fresher\MISA.Web2021_02\MF727-vhthang\Btvn-t2\MISA.CukCuk.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csproj.CopyComplete
+E:\program\Misa.Fresher\MISA.Web2021_02\MF727-vhthang\Btvn-t2\MISA.CukCuk.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.dll
+E:\program\Misa.Fresher\MISA.Web2021_02\MF727-vhthang\Btvn-t2\MISA.CukCuk.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.pdb
+C:\Users\Admin\Desktop\New folder\Backend\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.deps.json
+C:\Users\Admin\Desktop\New folder\Backend\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.dll
+C:\Users\Admin\Desktop\New folder\Backend\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.pdb
+C:\Users\Admin\Desktop\New folder\Backend\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.Common.dll
+C:\Users\Admin\Desktop\New folder\Backend\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+C:\Users\Admin\Desktop\New folder\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.dll
+C:\Users\Admin\Desktop\New folder\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.pdb
+F:\vhthang\webEShop\Backend\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.deps.json
+F:\vhthang\webEShop\Backend\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.dll
+F:\vhthang\webEShop\Backend\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.pdb
+F:\vhthang\webEShop\Backend\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.Common.dll
+F:\vhthang\webEShop\Backend\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+F:\vhthang\webEShop\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csprojAssemblyReference.cache
+F:\vhthang\webEShop\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.AssemblyInfoInputs.cache
+F:\vhthang\webEShop\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.AssemblyInfo.cs
+F:\vhthang\webEShop\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csproj.CoreCompileInputs.cache
+F:\vhthang\webEShop\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csproj.CopyComplete
+F:\vhthang\webEShop\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.dll
+F:\vhthang\webEShop\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.pdb
+D:\Current\New folder\Backend\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.deps.json
+D:\Current\New folder\Backend\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.dll
+D:\Current\New folder\Backend\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.pdb
+D:\Current\New folder\Backend\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.Common.dll
+D:\Current\New folder\Backend\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+D:\Current\New folder\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csprojAssemblyReference.cache
+D:\Current\New folder\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.AssemblyInfoInputs.cache
+D:\Current\New folder\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.AssemblyInfo.cs
+D:\Current\New folder\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csproj.CoreCompileInputs.cache
+D:\Current\New folder\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csproj.CopyComplete
+D:\Current\New folder\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.dll
+D:\Current\New folder\Backend\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.pdb
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.deps.json
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.dll
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.pdb
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.Common.dll
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csprojAssemblyReference.cache
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.AssemblyInfoInputs.cache
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.AssemblyInfo.cs
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csproj.CoreCompileInputs.cache
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csproj.CopyComplete
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.dll
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.pdb
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.Model.dll
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.Model.pdb
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csprojAssemblyReference.cache
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.AssemblyInfoInputs.cache
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.AssemblyInfo.cs
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csproj.CoreCompileInputs.cache
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.dll
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.pdb
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.deps.json
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.dll
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.DL.pdb
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.Common.dll
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.Model.dll
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.DL\bin\Debug\netcoreapp3.1\MISA.Model.pdb
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.DL\obj\Debug\netcoreapp3.1\MISA.DL.csproj.CopyComplete

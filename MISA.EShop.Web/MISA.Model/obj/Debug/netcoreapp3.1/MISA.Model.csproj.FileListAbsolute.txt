@@ -1,0 +1,24 @@
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.Model\obj\Debug\netcoreapp3.1\MISA.Model.csprojAssemblyReference.cache
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.Model\obj\Debug\netcoreapp3.1\MISA.Model.AssemblyInfoInputs.cache
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.Model\obj\Debug\netcoreapp3.1\MISA.Model.AssemblyInfo.cs
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.Model\obj\Debug\netcoreapp3.1\MISA.Model.csproj.CoreCompileInputs.cache
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.Model\bin\Debug\netcoreapp3.1\MISA.Model.deps.json
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.Model\bin\Debug\netcoreapp3.1\MISA.Model.dll
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.Model\bin\Debug\netcoreapp3.1\MISA.Model.pdb
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.Model\bin\Debug\netcoreapp3.1\MISA.Common.dll
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.Model\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.Model\obj\Debug\netcoreapp3.1\MISA.Model.csproj.CopyComplete
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.Model\obj\Debug\netcoreapp3.1\MISA.Model.dll
+D:\Current\Main\BackEnd\MISA.EShop.Web\MISA.Model\obj\Debug\netcoreapp3.1\MISA.Model.pdb
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.Model\bin\Debug\netcoreapp3.1\MISA.Model.deps.json
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.Model\bin\Debug\netcoreapp3.1\MISA.Model.dll
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.Model\bin\Debug\netcoreapp3.1\MISA.Model.pdb
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.Model\bin\Debug\netcoreapp3.1\MISA.Common.dll
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.Model\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.Model\obj\Debug\netcoreapp3.1\MISA.Model.csprojAssemblyReference.cache
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.Model\obj\Debug\netcoreapp3.1\MISA.Model.AssemblyInfoInputs.cache
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.Model\obj\Debug\netcoreapp3.1\MISA.Model.AssemblyInfo.cs
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.Model\obj\Debug\netcoreapp3.1\MISA.Model.csproj.CoreCompileInputs.cache
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.Model\obj\Debug\netcoreapp3.1\MISA.Model.csproj.CopyComplete
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.Model\obj\Debug\netcoreapp3.1\MISA.Model.dll
+D:\Current\Main\BackEnd - Copy\MISA.EShop.Web\MISA.Model\obj\Debug\netcoreapp3.1\MISA.Model.pdb
